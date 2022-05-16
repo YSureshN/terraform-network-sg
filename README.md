@@ -1,1 +1,2 @@
-# terraform-network-sg
+# network-sg
+Terraform Configurations for Security Groups
